@@ -3,9 +3,10 @@ using Interfaces.Services;
 using Models;
 using System;
 using System.Collections.Generic;
-using ViewModels.ViewModel;
+using System.Linq;
+using ViewModels;
 
-namespace Services.Impl
+namespace Services
 {
     public class BarangayService : IBarangayService
     {
@@ -34,16 +35,12 @@ namespace Services.Impl
             {
                 var model = _barangayRepository.GetAllActive();
 
-                foreach (var item in model)
+                vm = model.Select(m => new BarangayViewModel
                 {
-                    var barangay = new BarangayViewModel();
-
-                    barangay.BarangayId = item.BarangayId;
-                    barangay.Code = item.Code;
-                    barangay.Name = item.Name;
-
-                    vm.Add(barangay);
-                }
+                    BarangayId = m.BarangayId,
+                    Code = m.Code,
+                    Name = m.Name
+                }).ToList();
             }
             catch (Exception ex)
             {
@@ -78,13 +75,14 @@ namespace Services.Impl
         {
             try
             {
-                var model = new Barangay();
-
-                model.Code = viewModel.Code;
-                model.Name = viewModel.Name;
-                model.IsActive = true;
-                //model.CreatedById = 1;
-                model.CreatedDate = DateTime.Now;
+                var model = new Barangay()
+                {
+                    Code = viewModel.Code,
+                    Name = viewModel.Name,
+                    IsActive = true,
+                    //CreatedById = 1,
+                    CreatedDate = DateTime.Now
+                };
 
                 _barangayRepository.Create(model);
 

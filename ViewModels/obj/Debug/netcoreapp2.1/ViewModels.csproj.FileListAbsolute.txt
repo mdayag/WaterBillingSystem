@@ -23,4 +23,3 @@ C:\Development\WaterBillingSystem\ViewModels\obj\Debug\netcoreapp2.1\ViewModels.
 C:\Development\WaterBillingSystem\ViewModels\obj\Debug\netcoreapp2.1\ViewModels.AssemblyInfo.cs
 C:\Development\WaterBillingSystem\ViewModels\obj\Debug\netcoreapp2.1\ViewModels.dll
 C:\Development\WaterBillingSystem\ViewModels\obj\Debug\netcoreapp2.1\ViewModels.pdb
-C:\Development\WaterBillingSystem\ViewModels\obj\Debug\netcoreapp2.1\ViewModels.csprojAssemblyReference.cache
