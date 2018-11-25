@@ -1,0 +1,5 @@
+C:\Development\WaterBillingSystem\Web.ClientApp\obj\Debug\netcoreapp2.1\Web.ClientApp.csproj.CoreCompileInputs.cache
+C:\Development\WaterBillingSystem\Web.ClientApp\obj\Debug\netcoreapp2.1\Web.ClientApp.RazorAssemblyInfo.cache
+C:\Development\WaterBillingSystem\Web.ClientApp\obj\Debug\netcoreapp2.1\Web.ClientApp.RazorAssemblyInfo.cs
+C:\Development\WaterBillingSystem\Web.ClientApp\obj\Debug\netcoreapp2.1\Web.ClientApp.AssemblyInfoInputs.cache
+C:\Development\WaterBillingSystem\Web.ClientApp\obj\Debug\netcoreapp2.1\Web.ClientApp.AssemblyInfo.cs
