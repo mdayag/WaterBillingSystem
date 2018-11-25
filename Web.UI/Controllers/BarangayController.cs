@@ -2,7 +2,7 @@
 using System.Threading.Tasks;
 using Interfaces.Services;
 using Microsoft.AspNetCore.Mvc;
-using ViewModels.ViewModel;
+using ViewModels;
 
 namespace Web.UI.Controllers
 {

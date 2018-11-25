@@ -1,4 +1,4 @@
-﻿using ViewModels.ViewModel;
+﻿using ViewModels;
 using System.Collections.Generic;
 
 namespace Interfaces.Services

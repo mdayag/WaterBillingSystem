@@ -39,3 +39,4 @@ C:\Development\WaterBillingSystem\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.As
 C:\Development\WaterBillingSystem\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.AssemblyInfo.cs
 C:\Development\WaterBillingSystem\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.dll
 C:\Development\WaterBillingSystem\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.pdb
+C:\Development\WaterBillingSystem\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.csprojAssemblyReference.cache
