@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ViewModels.ViewModel
+namespace ViewModels
 {
     public class BaseViewModel
     {

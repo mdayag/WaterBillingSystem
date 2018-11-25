@@ -3,3 +3,4 @@ C:\Development\WaterBillingSystem\Web.ClientApp\obj\Debug\netcoreapp2.1\Web.Clie
 C:\Development\WaterBillingSystem\Web.ClientApp\obj\Debug\netcoreapp2.1\Web.ClientApp.RazorAssemblyInfo.cs
 C:\Development\WaterBillingSystem\Web.ClientApp\obj\Debug\netcoreapp2.1\Web.ClientApp.AssemblyInfoInputs.cache
 C:\Development\WaterBillingSystem\Web.ClientApp\obj\Debug\netcoreapp2.1\Web.ClientApp.AssemblyInfo.cs
+C:\Development\WaterBillingSystem\Web.ClientApp\obj\Debug\netcoreapp2.1\Web.ClientApp.csprojAssemblyReference.cache

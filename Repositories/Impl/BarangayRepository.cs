@@ -1,10 +1,9 @@
 ﻿using Models;
 using System.Collections.Generic;
 using System.Linq;
-using Microsoft.EntityFrameworkCore;
 using Interfaces.Repositories;
 
-namespace Repositories.Impl
+namespace Repositories
 {
     public class BarangayRepository : Repository<Barangay>, IBarangayRepository
     {

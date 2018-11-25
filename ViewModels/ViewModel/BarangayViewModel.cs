@@ -1,4 +1,4 @@
-﻿namespace ViewModels.ViewModel
+﻿namespace ViewModels
 {
     public class BarangayViewModel: BaseViewModel
     {
